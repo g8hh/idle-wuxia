@@ -277,7 +277,7 @@ var cnItems = {
     "Warriors Bracelet": "武士手链",
     "Wardrobe": "衣柜",
     "Bookshelf": "书架",
-    "": "",
+    "Spear": "长矛",
     "": "",
     "": "",
     "": "",
